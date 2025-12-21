@@ -175,7 +175,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+Alok Pandey
 - GitHub: [@ap737147-stack](https://github.com/ap737147-stack)
 - Email: ap737147@gmail.com
 
