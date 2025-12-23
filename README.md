@@ -4,7 +4,6 @@ A beautiful and modern Flutter application for calculating Body Mass Index (BMI)
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## ✨ Features
 
@@ -168,10 +167,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
